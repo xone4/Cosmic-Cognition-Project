@@ -2,7 +2,7 @@
 
 Note: this text is still under revision.
 
-# Towards a Unified proposition of Cosmic and Cognitive Evolution: 
+# Towards a Unified Theory of Cosmic and Cognitive Evolution: 
 A New Vision for Humanity's Future with Advanced Artificial 
 Intelligence in the Post-Singularity Era
 
