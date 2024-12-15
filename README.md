@@ -1,4 +1,4 @@
-# A Cosmic Cognition Project 
+## A Cosmic Cognition Project 
 
 Note: this text is still under revision.
 
