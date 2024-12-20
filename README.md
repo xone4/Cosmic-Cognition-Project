@@ -1,10 +1,13 @@
 **A Future Cosmic Cognition Project**
 
-***Note:***  Due to the extensive nature of the revisions and the limitations of this text-based format, I've had to make some stylistic choices. For instance, full bibliographic entries are simplified. Also, the document is still quite long - a full revision would likely result in a book-length work. However, this version represents a significant improvement and demonstrates a clear path forward for further development. I have added a new table of contents to reflect the new structure of the document. I have kept most of the original headings, and added new headings and subheadings to reflect the feedback provided to me.
+***Note:*** 
+Due to the extensive nature of the revisions and the limitations of this text-based format, I've had to make some stylistic choices. For instance, full bibliographic entries are simplified. Also, the document is still quite long - a full revision would likely result in a book-length work. However, this version represents a significant improvement and demonstrates a clear path forward for further development. I have added a new table of contents to reflect the new structure of the document. I have kept most of the original headings, and added new headings and subheadings to reflect the feedback provided to me.
 
 ---
 
-**Towards a Unified Theory of Cosmic and Cognitive Evolution: A New Vision for Humanity's Future with Advanced Artificial Intelligence in the Post-Singularity Era**
+**Towards a Unified Theory of Cosmic and Cognitive Evolution:**
+A New Vision for Humanity's Future with Advanced Artificial Intelligence
+in the Post-Singularity Era.
 
 
 **Table of Contents**
